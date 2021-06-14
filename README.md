@@ -1,0 +1,2 @@
+# glz
+compression
